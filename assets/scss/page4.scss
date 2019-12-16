@@ -1,0 +1,19 @@
+.lion {
+    .rond {
+        height: 250px;
+        width: 250px;
+        position: relative;
+    }
+
+}
+
+.buu {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+
+}
